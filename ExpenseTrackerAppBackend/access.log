@@ -1,0 +1,7 @@
+::1 - - [25/Dec/2023:18:33:41 +0000] "GET /expense/add-expense?page=1&pageSize=10 HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+::1 - - [25/Dec/2023:18:34:20 +0000] "POST /user/login HTTP/1.1" 200 231 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+::1 - - [25/Dec/2023:18:34:21 +0000] "GET /expense/add-expense?page=1&pageSize=10 HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+::1 - - [25/Dec/2023:18:50:10 +0000] "POST /user/login HTTP/1.1" 200 226 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+::1 - - [25/Dec/2023:18:50:12 +0000] "GET /expense/add-expense?page=1&pageSize=10 HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+::1 - - [25/Dec/2023:18:50:41 +0000] "POST /expense/add-expense HTTP/1.1" 200 184 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+::1 - - [25/Dec/2023:20:01:53 +0000] "GET /expense/add-expense?page=1&pageSize=10 HTTP/1.1" 200 1578 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
